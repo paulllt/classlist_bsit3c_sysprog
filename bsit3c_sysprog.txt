@@ -1,5 +1,4 @@
 NUMBER	FIRSTNAME	LASTNAME	MIDDLEINITIAL
 			
-1	Aleli	Tito	A.
-2	Rocky Paul	Acosta	I.
-3	Marlon	Galupo	A.
+1	Rocky Paul	Acosta	I.
+2	Marlon	Galupo	A.
